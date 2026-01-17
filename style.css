@@ -1,0 +1,67 @@
+body{
+    background-color: #d5e0f1;
+     font-family: "Zen Maru Gothic", sans-serif;
+}
+
+h1, h4, p {
+    color: rgb(37, 37, 75)
+
+}
+
+#infa{
+    font-size: 22px;
+    background-color: #9cadc9;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.section1{
+    color: rgb(35, 17, 85);
+}
+
+nav a{
+    font-size: 22px;
+    color: navy;
+}
+
+img{
+    border-radius: 20px;
+    margin: 20px;
+}
+h4{
+    margin: 20px;
+    font-size: 30px;
+}
+
+.navmenu{
+    display: flex;
+    gap: 1vw;
+    list-style-type: none;
+}
+
+.navmenu li a{
+    text-decoration: none;
+    color: navy;
+}
+
+header{
+    background-color: #5676a5;
+    padding: 5px;
+    margin: 0px;
+    font-size: 40px;
+    border-radius: 20px;
+}
+
+.header .section1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.vozmoznosti-container{
+    display: flex;
+    position: relative;
+
+}
